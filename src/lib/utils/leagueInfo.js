@@ -9,8 +9,11 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 export const homepageText = `
   <p>Founded 2023</p>
   <p>Each year the winner get's the honorable trophy that is still, (Year 3 btw), not yet purchased, because Kappas is a cheap buck-toothed bitch.</p>
+  <p></p>
   <p>Our inagural year saw extreme highs and lows as the league reacted to every trade offer, cap dollar spent, and arrest/dui/gambling addiction(?) that our players had.</p>
-  <p>Our second year started off with a Bang! Literal gunshots went off to start the season for everyone with the exception of Ricky Pearsal and his manager Derek Kappas</p>
+  <p></p>
+  <p>Our second year started off with a Bang! Literal gunshots went off at the start, both launching our season and ending it for our ivory-tusked Year one champ.</p>
+  <p>In a heroic effort, Erick was crowned king year two, while everyone lauged at the sad little man in third place for the second year in a row.</p>
   <p></p>
  `;
 
